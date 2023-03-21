@@ -49,14 +49,15 @@ Les comparto algunos de mis proyectos escolares, personales y algunas pruebas te
 
 [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
+## 2. Retos Java UVEG
 
-#### Retos Java UVEG
+#### Tecnologías usadas
 
 - JAVA 6
 - MEAVEN
 
-![Landing Page](src/p1/01.jpg)
+![Landing Page](https://applereport.com/wp-content/uploads/2021/12/install-legacy-java-se-6-mac.jpg)
 
 >Repositorio
 
-[![portfolio](https://applereport.com/wp-content/uploads/2021/12/install-legacy-java-se-6-mac.jpg)](https://github.com/edwardhdezg/RetosJavaUVEG)
+[![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwardhdezg/RetosJavaUVEG)
