@@ -61,7 +61,7 @@ Les comparto algunos de mis proyectos escolares, personales y algunas pruebas te
 [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwardhdezg/RetosJavaUVEG)
 
 
-## 3. desarrollo Web Java - Bedu 
+## 3. Desarrollo Web Java - Bedu 
 
 #### Tecnologías usadas
 
