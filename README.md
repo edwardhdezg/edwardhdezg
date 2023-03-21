@@ -1,6 +1,6 @@
 ![Logo](./src/portada.png)
 
-# Hola, Yo soy Eduardo! 👋
+# Hola, mi nombre es Eduardo! 👋
 ## 🚀 Acerca de mi
 Soy un apasionado de la tecnología y estoy buscando mi primera oportunidad como Programador Back End Junior Java/Php, en una empresa innovadora, 👨‍💻
 
@@ -13,7 +13,7 @@ Estoy buscando una empresa que valore la innovación y el trabajo en equipo, y q
 
 
 # 🛠 Skills
-Desde mis estudios de preparatoria y la universidad he utilizado los siguientes lenguajes y herramientas:
+Estos son algunos lenguajes de programación y herramientas que he utilizado en el ámbito laboral y en mi proceso de aprendizaje.
 
 <center>
 <h3 align="left">Languages and Tools:</h3>
@@ -43,8 +43,6 @@ Les comparto algunos de mis proyectos escolares, personales y algunas pruebas te
 - Eloquent ORM
 - Mysql
 
-
-
 ![Landing Page](src/p1/01.jpg)
 
 >Repositorio
@@ -52,3 +50,13 @@ Les comparto algunos de mis proyectos escolares, personales y algunas pruebas te
 [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 
+#### Retos Java UVEG
+
+- JAVA 6
+- MEAVEN
+
+![Landing Page](src/p1/01.jpg)
+
+>Repositorio
+
+[![portfolio](https://applereport.com/wp-content/uploads/2021/12/install-legacy-java-se-6-mac.jpg)](https://github.com/edwardhdezg/RetosJavaUVEG)
