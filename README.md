@@ -29,8 +29,6 @@ Les comparto algunos de mis proyectos escolares, personales y algunas pruebas te
 ## 1. Proyecto Tienda Online
 
 
-
-
 #### Tecnologías usadas
 
 - HTML5
@@ -61,3 +59,24 @@ Les comparto algunos de mis proyectos escolares, personales y algunas pruebas te
 >Repositorio
 
 [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwardhdezg/RetosJavaUVEG)
+
+
+## 3. desarrollo Web Java - Bedu 
+
+#### Tecnologías usadas
+
+- JAVA 9
+- SPRING BOOT
+- SPRING CLOUD
+- SPRING DATA JPA
+- SPRING MVC
+- GRADLE
+- JUNIT
+- THYMELEAF
+
+
+![Landing Page](https://i.stack.imgur.com/QNlrW.png)
+
+>Repositorio
+
+[![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwardhdezg/BeduTeam3)
