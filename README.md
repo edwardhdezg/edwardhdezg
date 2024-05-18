@@ -1,15 +1,12 @@
 ![Logo](./src/portada.png)
 
-# Hola, mi nombre es Eduardo! 👋
+# Hola, mi nombre es Eduardo Hernandez! 👋
 ## 🚀 Acerca de mi
-Soy un apasionado de la tecnología y estoy buscando mi primera oportunidad como Programador Back End Junior Java/Php, en una empresa innovadora, 👨‍💻
+Tengo 27 año y soy un apasionado de la tecnología. 👨‍💻
 
-Con más de 4 años de experiencia en el ámbito informático, he adquirido habilidades en programación, resolución de problemas y trabajo en equipo. Me emociona seguir aprendiendo y creciendo profesionalmente en el campo del desarrollo y soluciones tecnológicas. 🏆💻
+Durante los últimos 5 años, he acumulado una experiencia amplia y diversa en el desarrollo de aplicaciones Java, tanto en entornos empresariales como en proyectos independientes. Mi enfoque se centra en la creación de soluciones robustas y escalables que cumplan con los estándares de calidad más exigentes. Además, mi capacidad para colaborar efectivamente en equipos multidisciplinarios y mi compromiso con el aprendizaje continuo me han permitido adaptarme con éxito a diferentes desafíos y entornos de trabajo 🏆💻
 
 Además de mi interés por la tecnología, disfruto de explorar lugares nuevos y aprender sobre diferentes culturas. En mi tiempo libre, me encanta ver la Formula 1 y disfrutar de una deliciosa pizza.
-
-Estoy buscando una empresa que valore la innovación y el trabajo en equipo, y que me brinde la oportunidad de aplicar y mejorar mis habilidades de programación mientras trabajo en proyectos emocionantes y desafiantes. Estoy comprometido a contribuir al éxito del equipo y aportar soluciones creativas a los desafíos de la empresa.
-
 
 
 # 🛠 Skills
